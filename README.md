@@ -17,7 +17,7 @@ Blank flask app based on flask tutorial
   ```
   pip install Flask
   ```
-  3.1 Or install using setup.py
+  or install using setup.py
   ```
    pip install e .
   ```
