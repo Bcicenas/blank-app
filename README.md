@@ -4,7 +4,7 @@ Blank flask app based on flask tutorial
 # Changes from flask tutorial
  - Added Bootstrap 4 lib instead of default style.css
 
-# How to use
+# How to use (Ubuntu)
   1. Create virtual enviroment
   ```
   python3 -m venv venv
