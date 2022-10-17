@@ -1,6 +1,6 @@
 import pytest
 from flask import g, session
-from $NAME.db import get_db
+from blank_app.db import get_db
 
 
 def test_register(client, app):

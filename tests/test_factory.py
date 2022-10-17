@@ -1,4 +1,4 @@
-from $NAME import create_app
+from blank_app import create_app
 
 
 def test_config():

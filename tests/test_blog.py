@@ -1,5 +1,5 @@
 import pytest
-from $NAME.db import get_db
+from blank_app.db import get_db
 
 
 def test_index(client, auth):
